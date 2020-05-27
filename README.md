@@ -2,7 +2,10 @@
 [![npm version](https://badge.fury.io/js/bdl.js.svg)](https://badge.fury.io/js/bdl.js) \
 Library for Bot Designer List API
 
-## Example:
+## Installation
+`npm i bdl.js`
+
+## Example
 ```js
 const Discord = require('discord.js');
 const { connectBdlBot } = require('bdl.js');
