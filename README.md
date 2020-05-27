@@ -1,5 +1,5 @@
-[![npm version](https://badge.fury.io/js/bdl.js.svg)](https://badge.fury.io/js/bdl.js)
 # bdl.js
+[![npm version](https://badge.fury.io/js/bdl.js.svg)](https://badge.fury.io/js/bdl.js) \
 Library for Bot Designer List API
 
 ## Example:
