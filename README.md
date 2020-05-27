@@ -20,6 +20,8 @@ client.on('message', msg => {
 });
 
 client.login('<Discord Token>');
+
+// Connects to Bot Designer List
 connectBdlBot("<Bot Designer List Token>", client)
 ```
 
