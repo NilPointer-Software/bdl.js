@@ -1,0 +1,1 @@
+exports.UPDATE_BOT = "https://botdesignerlist.com/api/exposed/bot/update"

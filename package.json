@@ -2,13 +2,13 @@
   "name": "bdl.js",
   "version": "1.0.0",
   "description": "Library for Bot Designer List API",
-  "main": "src/main.js",
+  "main": "src/lib.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node src/test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NilPointer-Software/bdl.js.git"
+    "url": "https://github.com/NilPointer-Software/bdl.js.git"
   },
   "keywords": [
     "bdl",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/NilPointer-Software/bdl.js/issues"
   },
-  "homepage": "https://github.com/NilPointer-Software/bdl.js#readme"
+  "homepage": "https://botdesignerlist.com",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
