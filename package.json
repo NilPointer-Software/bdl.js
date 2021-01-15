@@ -1,8 +1,9 @@
 {
   "name": "bdl.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Library for Bot Designer List API",
   "main": "src/lib.js",
+  "typings": "typings/index.d.ts",
   "scripts": {
     "test": "node src/test.js"
   },
